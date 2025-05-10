@@ -1,2 +1,0 @@
-require("zephyros")
-print("Hello")
